@@ -1,8 +1,9 @@
 Hello World !
 
-Je suis Joel, en reconversion dans le domaine du numerique.
+Je suis Joel, en fin reconversion professionnelle dans le domaine du numerique.
+Actuellement developpeur junior full-stack et attirer par l'IT / Cloud.
 
-Vous pouvez voir mon portfolio [ICI] !
+Vous pouvez voir mon portfolio [ICI](http(s)://jobenass.github.io) !
 
-Vous pouvez me trouver sur LinkeIn et prendre contacte si besoin :).
+Vous pouvez me trouver sur [LINKEDIN](https://www.linkedin.com/in/joel-benassac/) et prendre contacte si besoin :).
 
